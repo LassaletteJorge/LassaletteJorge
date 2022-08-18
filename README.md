@@ -1,16 +1,30 @@
-### Hi there 👋
+# Eaê 👋
+
+
+## A ideia é transformar a vida das pessoas. A tecnologia é um meio. 
+
+### Interessada em pessoas, projetos, desenvolvimento web e mobile, análise/banco de dados, design e multimídia.
+
+#### Estudante de desenvolvimento web fullstack pela DIO!
+
+
+-- Não vivo sem boa música
+
+-- Amante de cultura, séries/filmes
+
+-- Meio ambiente  e  Work voluntário
+
+
+## Linkes Úteis
+
+[Rocketseat-Discover](https://app.rocketseat.com.br/me/)
+
+[Linkedin](https://www.linkedin.com/in/vilma-lassalette/)
 
 <!--
-**LassaletteJorge/LassaletteJorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LassaletteJorge/LassaletteJorge**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
